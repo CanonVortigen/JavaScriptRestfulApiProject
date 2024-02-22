@@ -14,9 +14,9 @@
 <p>GET /users<p>    
 <h5>Exemplo de resultado:</h5>
 
-<p>{
-    "users":[]
-}</p>
+<p>{</p>
+<p>    "users":[]</p>
+<p>}</p>
     
 <h5>Cadastrar um novo usuário:</h5>
 <p>POST /users</p>
