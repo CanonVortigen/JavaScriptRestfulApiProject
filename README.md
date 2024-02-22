@@ -2,51 +2,52 @@
 
 <h3>API desenvolvida em Node.js</h3>
 
-#Instalação
-#npm install
+<h3>Instalação</h3>
+<p>npm install</p>
 
-Excutando servidor
-npm start
-Rotas
-Obter todos os usuários:
+<h3>Excutando servidor</h3>
+<p>npm start</p>
 
-GET /users
-Exemplo de resultado:
+<h3>Rotas</h3>
 
-{
+<h5>Obter todos os usuários:</h5>
+<p>GET /users<p>    
+<h5>Exemplo de resultado:</h5>
+
+<p>{
     "users":[]
-}
-Cadastrar um novo usuário:
+}</p>
+    
+<h5>Cadastrar um novo usuário:</h5>
+<p>POST /users</p>
+<h5>Exemplo de resultado:</h5>
 
-POST /users
-Exemplo de resultado:
-
-{
+<p>{
     "_id":"hjkhfui324",
     "name":"João Rangel"
-}
-Obter dados de um usuário:
+}</p>
 
-GET /users/:id
-Exemplo de resultado:
+<h5>Obter dados de um usuário:</h5>
+<p>GET /users/:id</p>
+<h5>Exemplo de resultado:</h5>
 
-{
+<p>{
     "_id":"hjkhfui324",
     "name":"João Rangel"
-}
-Editar um usuário:
+}</p>
 
-PUT /users/:id
-Exemplo de resultado:
+<h5>Editar um usuário:</h5>
+<p>PUT /users/:id</p>
+<h5>Exemplo de resultado:</h5>
 
-{
+<p>{
     "_id":"hjkhfui324"
-}
-Excluir um usuário:
+}</p>
 
-DELETE /users/:id
-Exemplo de resultado:
+<h5>Excluir um usuário:</h5>
+<p>DELETE /users/:id</p>
+<h5>Exemplo de resultado:</h5>
 
-{
+<p>{
     "_id":"hjkhfui324"
-}
+}</p>
