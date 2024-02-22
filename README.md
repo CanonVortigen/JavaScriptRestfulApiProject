@@ -5,7 +5,7 @@
 <h3>Instalação</h3>
 <p>npm install</p>
 <hr>
-<h3>Excutando servidor</h3>
+<h3>Executando servidor</h3>
 <p>npm start</p>
 <hr>
 <h3>Rotas</h3>
