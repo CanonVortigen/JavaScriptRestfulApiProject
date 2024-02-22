@@ -1,6 +1,6 @@
-<h1>RESTful API de Usuários</h1>
+<h1 align='center'>RESTful API de Usuários</h1>
 
-<h3>API desenvolvida em Node.js</h3>
+<h1 align='center'>API desenvolvida em Node.js</h1>
 
 <h3>Instalação</h3>
 <p>npm install</p>
@@ -33,7 +33,7 @@
 
 <p>{</p>
 <p>    "_id":"hjkhfui324",</p>
-<p>    "name":"João Rangel"</p>
+<p>    "name":"Canon Oliveira"</p>
 <p>}</p>
 
 <h5>Editar um usuário:</h5>
