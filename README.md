@@ -8,7 +8,7 @@
 <h3>Excutando servidor</h3>
 <p>npm start</p>
 <hr>
-<h3 align='center'>Rotas</h3>
+<h3>Rotas</h3>
 
 <h5>Obter todos os usuários:</h5>
 <p>GET /users<p>    
