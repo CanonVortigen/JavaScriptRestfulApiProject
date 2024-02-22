@@ -22,32 +22,32 @@
 <p>POST /users</p>
 <h5>Exemplo de resultado:</h5>
 
-<p>{
-    "_id":"hjkhfui324",
-    "name":"João Rangel"
-}</p>
+<p>{</p>
+<p>    "_id":"hjkhfui324",</p>
+<p>    "name":"Canon Oliveira"</p>
+<p>}</p>
 
 <h5>Obter dados de um usuário:</h5>
 <p>GET /users/:id</p>
 <h5>Exemplo de resultado:</h5>
 
-<p>{
-    "_id":"hjkhfui324",
-    "name":"João Rangel"
-}</p>
+<p>{</p>
+<p>    "_id":"hjkhfui324",</p>
+<p>    "name":"João Rangel"</p>
+<p>}</p>
 
 <h5>Editar um usuário:</h5>
 <p>PUT /users/:id</p>
 <h5>Exemplo de resultado:</h5>
 
-<p>{
-    "_id":"hjkhfui324"
-}</p>
+<p>{</p>
+<p>    "_id":"hjkhfui324"</p>
+<p>}</p>
 
 <h5>Excluir um usuário:</h5>
 <p>DELETE /users/:id</p>
 <h5>Exemplo de resultado:</h5>
 
-<p>{
-    "_id":"hjkhfui324"
-}</p>
+<p>{</p>
+<p>    "_id":"hjkhfui324"</p>
+<p>}</p>
